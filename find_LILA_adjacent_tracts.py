@@ -2,6 +2,8 @@ import pandas as pd
 import geopandas as gpd
 
 # Upload to github
+#testing stuff here  
+#type something else
 
 # Set directory path
 dir_path = "/Users/GiaChow/Downloads"
