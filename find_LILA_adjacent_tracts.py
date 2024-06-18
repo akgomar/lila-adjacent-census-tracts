@@ -1,6 +1,8 @@
 import pandas as pd
 import geopandas as gpd
 
+# Upload to github
+
 # Set directory path
 dir_path = "/Users/GiaChow/Downloads"
 
